@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>B.Sadhana- Portfolio</title>
+    <title>B . SADHANA - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -68,27 +68,27 @@
 </head>
 <body>
 
-  <div class="header">
-        S. Afrose Banu <br>
+    <div class="header">
+        B . SADHANA <br>
         <small>BCA Graduate</small>
     </div>
 
-  <div class="profile-container">
-        <img src="Screenshot_2024-10-11-23-30-50-066_com.miui.gallery.jpg" alt="S. Afrose Banu">
+    <div class="profile-container">
+        <img src="sadhana2.jpg" alt="B.Sadhana">
     </div>
 
-  <div class="container">
+    <div class="container">
         <div class="section">
             <h2>About Me</h2>
             <p>Motivated BCA graduate with strong programming and problem-solving skills, seeking an entry-level role to apply my knowledge in software development and IT solutions.</p>
         </div>
 
-  <div class="section">
+        <div class="section">
             <h2>Education</h2>
             <p>Prince Shri Venkateswara Arts and Science College</p>
         </div>
 
-  <div class="section">
+        <div class="section">
             <h2>Skills</h2>
             <ul>
                 <li>Python</li>
@@ -100,23 +100,19 @@
             </ul>
         </div>
 
-  <div class="section">
+        <div class="section">
             <h2>Projects</h2>
             <ul>
-                <li>Hangman Game</li>
-                <li>Guess a Number</li>
-                <li>Digital Portfolio</li>
-                <li>Pattern</li>
-                <li>Calculator with AWT</li>
+                <li>Java vs Python Game</li>
             </ul>
         </div>
 
-  <div class="resume">
+        <div class="resume">
             <a href="Screenshot_2025-03-23-20-26-08-285_com.miui.gallery.jpg">Download CV</a>
         </div>
 
-  <div class="github">
-            <a href="https://github.com/Afrose-2314" target="_blank">Visit My GitHub</a>
+        <div class="github">
+            <a href="https://github.com/sadhana-creator" target="_blank">Visit My GitHub</a>
         </div>
     </div>
 
